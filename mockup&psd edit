@@ -1,0 +1,14 @@
+<html>
+<head></head>
+<body>
+<div id="header">
+<img src="images/HEADER.gif">
+</div>	
+<div id="body">
+<img src="images/BODY.gif">
+</div>
+<div id="footer">
+<img src="images/FOOTER.gif">
+</div>
+</body>
+</html>
